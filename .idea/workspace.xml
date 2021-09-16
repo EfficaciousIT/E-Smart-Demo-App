@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="generate" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0fa0213-fc05-4e2f-bd0d-8625b17cd3fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_interop_16_0_1_aar2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/E-Smarts_Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/E-Smarts_Demo.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/libs/E-Smarts_Demo.libs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/ic_icon-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_icon_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_icon_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_icon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_icon_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_icon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_icon_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_icon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_icon_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_icon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_icon_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_icon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_icon_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_browser_browser_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_browser_browser_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_extensions_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_extensions_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_process_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_process_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_service_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_service_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_crashlytics_sdk_android_answers_1_4_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_crashlytics_sdk_android_answers_1_4_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_crashlytics_sdk_android_beta_1_2_10_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_crashlytics_sdk_android_beta_1_2_10_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_crashlytics_sdk_android_crashlytics_2_9_5_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_crashlytics_sdk_android_crashlytics_2_9_5_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_crashlytics_sdk_android_crashlytics_core_2_6_4_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_crashlytics_sdk_android_crashlytics_core_2_6_4_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_19_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_19_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_17_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_17_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_17_5_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_17_5_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_5_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_5_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_11_8_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_11_8_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_11_8_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_11_8_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_safetynet_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_safetynet_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_16_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_16_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_abt_21_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_abt_21_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_appcheck_interop_16_0_0_beta02_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_appcheck_interop_16_0_0_beta02_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_21_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_21_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_20_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_20_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_20_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_20_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_components_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_components_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_config_21_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_config_21_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_20_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_20_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_18_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_18_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_17_1_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_17_1_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_interop_16_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_interop_16_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_interop_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_interop_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_18_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_18_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_17_6_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_17_6_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_infideap_drawerbehavior_drawer_behavior_0_0_5_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_infideap_drawerbehavior_drawer_behavior_0_0_5_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_intuit_sdp_sdp_android_1_0_5_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_intuit_sdp_sdp_android_1_0_5_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_roomorama_caldroid_3_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_roomorama_caldroid_3_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__de_hdodenhof_circleimageview_2_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__de_hdodenhof_circleimageview_2_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__id_zelory_compressor_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__id_zelory_compressor_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_fabric_sdk_android_fabric_1_4_4_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_fabric_sdk_android_fabric_1_4_4_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxandroid_2_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxandroid_2_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/CMS.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/libs/CMS.libs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/FCMServices/FagmentPageOpen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/FCMServices/FagmentPageOpen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/FCMServices/FirebaseChatMainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/FCMServices/FirebaseChatMainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/FCMServices/MyFirebaseInstanceIdService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/FCMServices/MyFirebaseInstanceIdService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/FCMServices/MyFirebaseMessagingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/FCMServices/MyFirebaseMessagingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/Interface/DataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/Interface/DataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/MultiImages/activities/AlbumSelectActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/MultiImages/activities/AlbumSelectActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/MultiImages/activities/HelperActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/MultiImages/activities/HelperActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/MultiImages/activities/ImageSelectActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/MultiImages/activities/ImageSelectActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/MultiImages/activities/MainImages.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/MultiImages/activities/MainImages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/MultiImages/activities/Single_image.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/MultiImages/activities/Single_image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/MultiImages/activities/Three_Images.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/MultiImages/activities/Three_Images.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/MultiImages/adapters/CustomAlbumSelectAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/MultiImages/adapters/CustomAlbumSelectAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/MultiImages/adapters/CustomGenericAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/MultiImages/adapters/CustomGenericAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/MultiImages/adapters/CustomImageSelectAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/MultiImages/adapters/CustomImageSelectAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/MultiImages/helpers/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/MultiImages/helpers/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/MultiImages/models/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/MultiImages/models/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/MultiImages/models/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/MultiImages/models/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/SearchableSpinner/SearchableListDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/SearchableSpinner/SearchableListDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/SearchableSpinner/SearchableSpinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/SearchableSpinner/SearchableSpinner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/Tab/AdminApproval_Tab.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/Tab/AdminApproval_Tab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/Tab/Admin_LeaveList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/Tab/Admin_LeaveList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/Tab/Attendence_sliding_tab.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/Tab/Attendence_sliding_tab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/Tab/Chating_Sliding_Tab.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/Tab/Chating_Sliding_Tab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/Tab/DailyDiary_Tab.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/Tab/DailyDiary_Tab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/Tab/Event_Tab.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/Tab/Event_Tab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/Tab/LibTab_layout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/Tab/LibTab_layout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/Tab/StudentAttendanceActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/Tab/StudentAttendanceActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/Tab/TimetableActivity_student.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/Tab/TimetableActivity_student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/Tab/TimetableActivity_teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/Tab/TimetableActivity_teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/Tab/Timetable_sliding_tab.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/Tab/Timetable_sliding_tab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/WeeklyCalender/WeekCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/WeeklyCalender/WeekCalendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/WeeklyCalender/adapter/PagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/WeeklyCalender/adapter/PagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/WeeklyCalender/decorator/DayDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/WeeklyCalender/decorator/DayDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/WeeklyCalender/decorator/DefaultDayDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/WeeklyCalender/decorator/DefaultDayDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/WeeklyCalender/eventbus/BusProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/WeeklyCalender/eventbus/BusProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/WeeklyCalender/eventbus/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/WeeklyCalender/eventbus/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/WeeklyCalender/fragment/WeekFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/WeeklyCalender/fragment/WeekFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/WeeklyCalender/listener/OnDateClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/WeeklyCalender/listener/OnDateClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/WeeklyCalender/listener/OnWeekChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/WeeklyCalender/listener/OnWeekChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/WeeklyCalender/view/WeekPager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/WeeklyCalender/view/WeekPager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/Aboutus.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/Aboutus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/AddressForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/AddressForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/EntityNameActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/EntityNameActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/EntityNameListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/EntityNameListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/Gmail_login.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/Gmail_login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/IndividualChat.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/IndividualChat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/LibCategoryBooklist_fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/LibCategoryBooklist_fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/LibraryActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/LibraryActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/Login_activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/Login_activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/MessageCenterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/MessageCenterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/MessagingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/MessagingActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/NewmessegesActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/NewmessegesActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/NoticeboardActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/NoticeboardActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/Notifiacton.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/Notifiacton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/PageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/PageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/StudentList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/StudentList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/ui/main/PageViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/ui/main/PageViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/ui/main/PlaceholderFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/ui/main/PlaceholderFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/activity/ui/main/SectionsPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/activity/ui/main/SectionsPagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/AllStudentAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/AllStudentAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/AllTeacherAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/AllTeacherAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/AssignBookAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/AssignBookAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/AssignBookTeacherAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/AssignBookTeacherAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/BookIssueLiabraryAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/BookIssueLiabraryAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/BookListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/BookListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/BookReturnAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/BookReturnAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/Book_Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/Book_Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/BottomUpAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/BottomUpAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/CategoryAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/CategoryAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/ChatAllUser_Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/ChatAllUser_Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/CustomAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/CustomAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/DailyDiaryAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/DailyDiaryAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/Division_Spinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/Division_Spinner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/Division_spinner_adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/Division_spinner_adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/EventListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/EventListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/GalleryAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/GalleryAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/HolidayAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/HolidayAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/LeaveApplyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/LeaveApplyAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/MSGStandardAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/MSGStandardAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/MessageCenterAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/MessageCenterAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/NoticeBoardAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/NoticeBoardAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/NoticeBoardAdapterr.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/NoticeBoardAdapterr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/OnlineClassDetailAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/OnlineClassDetailAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/OnlineClassTimetableAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/OnlineClassTimetableAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/ReturnBookList_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/ReturnBookList_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/ReturnStudentBookAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/ReturnStudentBookAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/ReturnTeacherBookAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/ReturnTeacherBookAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/SentMessageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/SentMessageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/StandardAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/StandardAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/StandardGridAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/StandardGridAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/StandardOnlineDetailAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/StandardOnlineDetailAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/StandardOnlineTimeTableAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/StandardOnlineTimeTableAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/Standard_Spinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/Standard_Spinner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/StudentApprovalAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/StudentApprovalAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/StudentAttendanceAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/StudentAttendanceAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/StudentLeaveListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/StudentLeaveListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/StudentListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/StudentListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/StudentNameAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/StudentNameAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/StudentTimetableAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/StudentTimetableAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/Student_Exam_Timetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/Student_Exam_Timetable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/Student_division_adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/Student_division_adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/Student_mark_Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/Student_mark_Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/SubjectAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/SubjectAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/Subject_Spinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/Subject_Spinner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/TeacherApprovalAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/TeacherApprovalAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/TeacherLeaveListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/TeacherLeaveListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/Teacher_Mark_Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/Teacher_Mark_Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/adapters/std_bottom_adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/std_bottom_adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/common/ConnectionDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/common/ConnectionDetector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/common/SpinnerError.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/common/SpinnerError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/database/Databasehelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/database/Databasehelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/dialogbox/Book_Details_dialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/dialogbox/Book_Details_dialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/dialogbox/BottomLayoutSheetDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/dialogbox/BottomLayoutSheetDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/dialogbox/Diary_image_dialogBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/dialogbox/Diary_image_dialogBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/dialogbox/Gallery_dialogBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/dialogbox/Gallery_dialogBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/dialogbox/Image_zoom_dialog_student.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/dialogbox/Image_zoom_dialog_student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/dialogbox/Image_zoom_dialog_teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/dialogbox/Image_zoom_dialog_teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/dialogbox/Standard_division_dialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/dialogbox/Standard_division_dialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/dialogbox/TimeTable_Division_Dialogbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/dialogbox/TimeTable_Division_Dialogbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/dialogbox/image_zoom_dialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/dialogbox/image_zoom_dialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/AssignBookDetailLibPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/AssignBookDetailLibPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/AssignBookTeacherAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/adapters/AssignBookTeacherAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/AttendanceDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/AttendanceDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/AttendanceDetailPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/AttendanceDetailPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/BookDetailLibPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/BookDetailLibPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/CategoryDetailLibPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/CategoryDetailLibPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/ChatDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/ChatDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/ChatDetailsPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/ChatDetailsPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/DashboardDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/DashboardDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/DashboardDetailsPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/DashboardDetailsPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/DeptDetailPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/DeptDetailPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/DeptOnlineTimetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/DeptOnlineTimetable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/EventDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/EventDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/EventDetailPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/EventDetailPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/Holiday.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/Holiday.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/LeaveDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/LeaveDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/LeaveDetailPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/LeaveDetailPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/LibraryDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/LibraryDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/LibraryDetailPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/LibraryDetailPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/LoginDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/LoginDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/LoginDetailsPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/LoginDetailsPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/MarkAttendence.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/MarkAttendence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/MessagePojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/MessagePojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/NoticeboardDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/NoticeboardDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/NoticeboardDetailsPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/NoticeboardDetailsPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/OnlineClassDetailPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/OnlineClassDetailPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/OnlineClassDetailsPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/OnlineClassDetailsPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/OnlineClassTimetablePojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/OnlineClassTimetablePojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/ProfileDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/ProfileDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/ProfileDetailsPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/ProfileDetailsPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/SchoolDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/SchoolDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/SchoolDetailsPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/SchoolDetailsPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/StandardDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/StandardDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/StandardDetailsPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/StandardDetailsPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/StudentStandardwiseDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/StudentStandardwiseDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/StudentStandardwiseDetailPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/StudentStandardwiseDetailPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/SubjLibraryDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/SubjLibraryDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/SubjectDetailLibPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/SubjectDetailLibPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/SyllabusDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/SyllabusDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/SyllabusDetailPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/SyllabusDetailPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/TeacherDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/TeacherDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/TeacherDetailPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/TeacherDetailPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/TeacherLibDetailPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/TeacherLibDetailPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/TimeTableDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/TimeTableDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/entity/TimeTableDetailPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/entity/TimeTableDetailPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Admin_Dashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Admin_Dashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Admission_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Admission_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/All_Standard_Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/All_Standard_Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/All_student_Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/All_student_Name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/All_teacher_Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/All_teacher_Name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/ApplyLeaveFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/ApplyLeaveFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/ApplyNotice.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/ApplyNotice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/AssignBookFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/AssignBookFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/AssignBookList_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/AssignBookList_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/BookList_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/BookList_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Book_IssueLibrary_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Book_IssueLibrary_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Chat_StandardWise_Student_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Chat_StandardWise_Student_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/DailyDiaryFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/DailyDiaryFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/DailyDiaryListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/DailyDiaryListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/DraftFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/DraftFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/EntityNameList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/EntityNameList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Event_application_fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Event_application_fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Event_list_fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Event_list_fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Event_participate_fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Event_participate_fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/FridayFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/FridayFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Friday_teacher_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Friday_teacher_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Gallery_fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Gallery_fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Group_Chat_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Group_Chat_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/HolidayFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/HolidayFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Homework_ApprovedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Homework_ApprovedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Homework_RejectedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Homework_RejectedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/InprogressFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/InprogressFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/LeaveListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/LeaveListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Management_Chat_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Management_Chat_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/MessageCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/MessageCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/MessagingFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/MessagingFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/MondayFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/MondayFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Monday_teacher_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Monday_teacher_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/NewMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/NewMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/NoticeBoard_application.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/NoticeBoard_application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Noticeboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Noticeboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/OnlineClassDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/OnlineClassDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/OnlineClassTimetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/OnlineClassTimetable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/OnlineTimeDetailStandard.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/OnlineTimeDetailStandard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/OnlineTimeTableStandard.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/OnlineTimeTableStandard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/ParentDashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/ParentDashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Profile_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Profile_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/ResultFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/ResultFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/ReturnBookList_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/ReturnBookList_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/ReturnFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/ReturnFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/SaterdayFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/SaterdayFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Saturday_teacher_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Saturday_teacher_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/SentFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/SentFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Single_name_fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Single_name_fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Sms_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Sms_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/StandardWise_Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/StandardWise_Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Standard_name.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Standard_name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/StudentApprovalFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/StudentApprovalFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/StudentAttendanceDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/StudentAttendanceDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/StudentChangePassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/StudentChangePassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/StudentExamFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/StudentExamFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/StudentLibraryAssignedFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/StudentLibraryAssignedFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/StudentListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/StudentListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/StudentSyllabusFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/StudentSyllabusFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Student_Calender_attendence.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Student_Calender_attendence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Student_Chat_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Student_Chat_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Student_LeaveList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Student_LeaveList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Student_Mark_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Student_Mark_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Student_Std_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Student_Std_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Studentbooklistfragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Studentbooklistfragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/SyllabusDetailFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/SyllabusDetailFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/TeacherApprovalFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/TeacherApprovalFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/TeacherAttendanceDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/TeacherAttendanceDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Teacher_Calender_attendence.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Teacher_Calender_attendence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Teacher_Chat_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Teacher_Chat_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Teacher_LeaveList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Teacher_LeaveList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Teacher_Mark_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Teacher_Mark_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/ThursdayFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/ThursdayFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Thursday_teacher_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Thursday_teacher_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/TuesdayFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/TuesdayFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Tuesday_teacher_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Tuesday_teacher_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/Wednesday_teacher_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/Wednesday_teacher_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/fragment/WedsdayFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/fragment/WedsdayFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/info/efficacious/centralmodelschool/webApi/RetrofitInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/info/efficacious/esmartsdemo/webApi/RetrofitInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bt_shape.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bt_shape.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_aboutus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_aboutus.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_address_form.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_address_form.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_apply_notice.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_apply_notice.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_entity_name.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_entity_name.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_entity_name_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_entity_name_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_messaging.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_messaging.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_newmesseges.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_newmesseges.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_student_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_student_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/assign_book_list_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/assign_book_list_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_assign_book.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_assign_book.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_messaging.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_messaging.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_new_message.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_new_message.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_parent_dashboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_parent_dashboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_result.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_return.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_return.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_student_library_assigned.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_student_library_assigned.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_student_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_student_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_studentbooklistfragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_studentbooklistfragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_teacher_name_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_teacher_name_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/main_images.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/main_images.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/online_class.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/online_class.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/onlineclassdetail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/onlineclassdetail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/single_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/single_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="E-Smarts Demo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="D:\Ajinkya(Android)\Keystore File\CMS KeyStore\cmskeystore.jks" />
+    <option name="KEY_ALIAS" value="cms" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1xlA4NVW4yC10d57Q6CPwpMFzws" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BundleExportedModule" value="CMS.app" />
+    <property name="ExportApk.ApkPath" value="D:\Ajinkya(Android)\Android Workspace\CMS\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-viewD:/Ajinkya(Android)/Android Workspace/CMS/app/src/main/java/info/efficacious/centralmodelschool/WeeklyCalender/WeekCalendar.java_SELECTED" value="WeekCalendar" />
+    <property name="android-custom-viewD:/Ajinkya(Android)/Android Workspace/CMS/app/src/main/java/info/efficacious/centralmodelschool/WeeklyCalender/WeekCalendar.java_WeekCalendar_DIMENSIONS" value="1080&#10;1920" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+    <property name="project.structure.last.edited" value="Build Variants" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ajinkya(Android)\Android Workspace\E-Smarts Demo\app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="E-Smarts_Demo.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0fa0213-fc05-4e2f-bd0d-8625b17cd3fa" name="Default Changelist" comment="" />
+      <created>1630919109564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630919109564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

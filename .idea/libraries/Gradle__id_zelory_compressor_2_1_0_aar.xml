@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: id.zelory:compressor:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9a1062ec3b64cdb11fd5b2128706230/compressor-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/048c1f6b1c580a2102807da162cfae1a/compressor-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cb0a31dd112b0fe57415cbcb9359f364/compressor-2.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2e396ea7e9045f945578f245324d5b1b/compressor-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2e396ea7e9045f945578f245324d5b1b/compressor-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2e396ea7e9045f945578f245324d5b1b/compressor-2.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/id.zelory/compressor/2.1.0/50886ab98d078a23ec45093c7becad8cd429362b/compressor-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
